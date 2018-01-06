@@ -3,10 +3,11 @@ The goal of the project is to create a classification model to identify the indi
 
 # Statistics
 
-The dataset used is from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Adult No of Observations: 48842
-No of variables: 14
-Attribute type: categorical/numeric
-Predictor variables: age, workclass, fnlwgt, education, education-num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, weekly-hours, native-country, income
+The dataset used is from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Adult <br/>
+No of Observations: 48842 <br/>
+No of variables: 14 <br/>
+Attribute type: categorical/numeric <br/>
+Predictor variables: age, workclass, fnlwgt, education, education-num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, weekly-hours, native-country, income <br/>
 Response variable: Income
 
 
